@@ -1,5 +1,10 @@
-## Greetings, dear reader! my name is Maxim.... 
-I am glad to see you on my personal profile, where you can see the history of my development in the field of system software Developer, and where you can find something interesting for yourself. 👋
+# Greetings, dear reader! My name is Maxim... 
+I am glad to see you on my **personal profile**, where you can see the history of my development in the *field of system software Developer*, and where you can find something interesting for yourself.
+
+## A little bit about yourself
+I am a single-minded person, always striving to achieve the desired or at least working result... I'm not going to lie. 😅 
+I am familiar with programming languages such as Python 3.11, C#, but mostly I study C/C++, in love with the elegance and power of Linux systems. I believe that the best code is simple and intuitive code that solves complex problems and does it flawlessly. 🦾
+
 
 <!--
 **Teeprun0/Teeprun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
