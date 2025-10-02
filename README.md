@@ -1,4 +1,5 @@
-## Greetings, dear reader! my name is Maxim.... I am glad to see you on my personal profile, where you can see the history of my development in the field of system software Developer, and where you can find something interesting for yourself.  👋
+## Greetings, dear reader! my name is Maxim.... 
+I am glad to see you on my personal profile, where you can see the history of my development in the field of system software Developer, and where you can find something interesting for yourself. 👋
 
 <!--
 **Teeprun0/Teeprun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
