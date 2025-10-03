@@ -1,11 +1,10 @@
-# Greetings, dear reader! My name is Maxim... 
-I am glad to see you on my **personal profile**, where you can see the history of my development in the *field of system software Developer*, and where you can find something interesting for yourself.
+# Greetings, dear reader, my name is Maxim! 😊
+I am glad to see you in my sweet corner of creation, where you can see the beginning of my journey from learning how to code to a level capable of creating miracles with the help of code. If you are interested in learning how I overcame all these difficulties and how I became a professional developer, then I am happy to invite you to look at any repository that interests you and even learn something new for yourself. I hope you like it here! 
 
 
-## A little bit about yourself
-I am a single-minded person, always striving to achieve the desired or at least working result... I'm not going to lie. 😅 
-I am familiar with programming languages such as Python 3.11, C#, but mostly study C/C++, in love with the elegance and power of Linux systems. I believe that the best code is simple and intuitive code that solves complex problems and does it flawlessly. 🦾
 
+## 🌱 A little bit about yourself
+I'm a simple guy who got interested in programming back in 2022 and created my own page on the **GitHub** platform in 2025... although I registered in 2024. 😅 I'm no different from many of the other newcomers here, or even look awkward compared to them... But I'm doing my best, and I really like what I'm doing. Starting in 2022, I actively studied programming with Python and spent about a year mastering the basic skills of writing good code to automatism, after which, in 2023-2024, I created many different projects from small to large and thus *looked for myself in the IT field*... Unfortunately, all these experimental projects have not been preserved to this day, because then I would have been focused on gaining knowledge, and not on developing my capabilities. And it was in 2025 that I found my sincere interest in the field of **"system software"** and I also continue to delve into the knowledge of the system world! 🥹
 
 <!--
 **Teeprun0/Teeprun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
